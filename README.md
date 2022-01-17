@@ -121,7 +121,7 @@ module.exports = {
 }
 ```
 
-![目录图解](1%E3%80%81%E7%9B%AE%E5%BD%95%E5%9B%BE%E8%A7%A3.png)
+![目录图解](https://gitee.com/linzisong/custom-message-song/raw/master/1%E3%80%81%E7%9B%AE%E5%BD%95%E5%9B%BE%E8%A7%A3.png)
 
 ### 3、插件源码开发
 
@@ -296,7 +296,7 @@ npm run lib
 
 打包后，目录如下：
 
-![打包后目录](2.png)
+![打包后目录](https://gitee.com/linzisong/custom-message-song/raw/master/2.png)
 
 
 ## 五、发布npm
